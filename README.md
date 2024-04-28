@@ -1,3 +1,9 @@
+#### Intro from Kojrey
+Everything below is the ReadMe from Stephen Grider that you forked.
+This is a boilerplate that is meant to speed up the development of your React apps
+...without neccessarily knowing all the plumbing excatly. If you need more guidance see study notes from:
+https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
